@@ -15,12 +15,6 @@ Using this modular structure you can:
 * Adapt existing networks to your imaging data
 * Quickly build new solutions to your own image analysis problems
 
-NiftyNet is a consortium of research organisations
-(BMEIS -- [School of Biomedical Engineering and Imaging Sciences, King's College London][bmeis];
-WEISS -- [Wellcome EPSRC Centre for Interventional and Surgical Sciences, UCL][weiss];
-CMIC -- [Centre for Medical Image Computing, UCL][cmic];
-HIG -- High-dimensional Imaging Group, UCL), where BMEIS acts as the consortium lead.
-
 ### Code to support multi-task algorithms/methods developed by Felix Bragman (UCL/KCL)
 
 * Uncertainty estimation and spatially adaptive weighting in multi-task learning
